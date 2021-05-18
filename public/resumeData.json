@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Darryl Schomberg II",
+    "occupation": "Full Stack Web Developer",
+    "description": "Recent graduate from Austin Coding Academy. A hard worker and quick learner. Versatile skill set with experience in web app development, management, customer service, and the music industry.",
+    "image": "profilepic.jpg",
+    "bio": "My name is Darryl. I grew up in Austin, the land of endless creativity. For 31 yeas, from learning to crawl, to spending hours playing old school RPGs, to being highly involved in the local music scene, to working in management, and now in web development... I'm always looking to push my skills in problem solving. Let's get to work! ",
+    "contactmessage": "Let's talk!",
+    "email": "d.schombergii@gmail.com",
+    "phone": "512-201-5600",
+    "address": {
+      "street": "12403 Madero Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78748"
+    },
+    "resumedownload": "https://github.com/dschombergii/resume/raw/main/Darryl%20Schomberg%20II%20-%20Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/darryl.schombergii",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/darrylschombergii/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mr._saturn/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dschombergii",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Always learning...",
+    "education": [
+      {
+        "school": "Austin Coding Academy",
+        "degree": "Certificate in Full Stack Web Development",
+        "graduated": "March 2021",
+        "description": "Completed the full time cohort, where myself and nine other students spent eight hours a day for six months learning HTML/CSS, JavaScript, Node, React, and everything in between. I am now working on a team of four from the school in a paid internship building real world projects for real world clients, using React, React Native, Node, SQL, and much more. "
+      }
+    ],
+    "work": [
+      {
+        "company": "Zollege (Circle Coding House)",
+        "title": "Software Developer",
+        "years": "March 2021 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "60%"
+      },
+      {
+        "name": "Node",
+        "level": "75%"
+      },
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Express",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Sounds Local",
+        "category": "React App I built for discovering local music from cities all around the globe. (Only works in desktop browsers for now...)",
+        "image": "SoundsLocalScreen.png",
+        "url": "https://soundslocal.app/"
+      },
+      {
+        "title": "Draftrr",
+        "category": "A website for creative writers, that forces you to continue with the first draft. Keep typing. No edits until unlocked by a desgnated trustee.",
+        "image": "DraftrrScreen.png",
+        "url": "https://www.draftrr.com/"
+      },
+      {
+        "title": "Towers of Hanoi",
+        "category": "Plain JS Towers of Hanoi game with simple UI.",
+        "image": "TowersOfHanoiScreen.png",
+        "url": "https://dschombergii.github.io/JS211_TowersOfHanoi/"
+      },
+      {
+        "title": "Mickey Mouse Rock Paper Scissors",
+        "category": "A cute JavaScript animated Mickey Mouse Rock Paper Scissors game!",
+        "image": "RockPaperScissorsScreen.png",
+        "url": "https://dschombergii.github.io/JS211_RockPaperScissorsProject/"
+      },
+      {
+        "title": "Hangman",
+        "category": "Classic Hangman with vanilla JS, but with simple and sleek UI.",
+        "image": "HangmanScreen.png",
+        "url": "https://dschombergii.github.io/JS211_Hangman/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
